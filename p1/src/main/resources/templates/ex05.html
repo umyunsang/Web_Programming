@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8"><title>예제 5번</title>
+<link rel="stylesheet" href="/ex05.css">
+</head>
+<body>
+<h2>예제 5번</h2>
+<table> 
+<tr id="ftr"> 
+   <th>숫자
+<tr th:each="a:${arr1}"> 
+   <td th:text="${a}">
+</table>
+<br>
+<table> 
+<tr id="ftr"> 
+   <th>지금 생각
+<tr th:each="a:${arr2}"> 
+   <td th:text="${a}">
+</table>
+</body>
+</html>

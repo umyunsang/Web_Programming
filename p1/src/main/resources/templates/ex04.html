@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8"><title>list</title>
+<link rel="stylesheet" href="/ex04.css">
+</head>
+<body><h2>회원 리스트</h2>
+<table>
+<tr id ="ftr"> <th> 회원 ID
+<tr th:each="a:${arr}"> <td th:text="${a}">
+</table>
+</body>
+</html>

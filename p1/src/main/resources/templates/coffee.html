@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>coffee</title>
+    <style>
+        body {
+            background-image: url(/coffee.jpg);
+            background-size: cover;
+        }
+        #s1 {
+            color: rgb(128, 64, 64);
+        }
+    </style>
+</head>
+<body>
+    <h1><span id="s1" th:text="${mid}">mid</span>님, 원하시는 커피를 선택하세요</h1>
+    <h3>Coming soon ...</h3>
+    <a href="/menu">메뉴로 돌아가기</a>
+</body>
+</html>
