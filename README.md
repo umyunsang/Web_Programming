@@ -1,7 +1,3 @@
-아래는 GitHub Pages를 이용해 링크를 생성할 수 있도록 수정한 README 파일입니다. 각 HTML 파일을 GitHub Pages에서 직접 열 수 있게 했습니다. 이 코드를 `README.md` 파일로 저장해 사용하세요.
-
----
-
 # 🖥️ 웹 프로그래밍 수업 노트
 
 이 리포지토리는 웹 프로그래밍 수업에서 배운 내용을 정리한 것입니다. 각 수업 내용은 다음과 같습니다:
@@ -48,41 +44,8 @@ HTML 기초에 이어 좀 더 심화된 HTML 태그와 속성들에 대해 배�
 
 ---
 
-# p1 웹 프로그래밍 프로젝트
-
-이 프로젝트는 웹 프로그래밍 수업에서 실습한 내용을 포함하고 있습니다. 프로젝트는 Spring Framework를 사용하여 작성되었으며, 다양한 HTML 파일과 Java Spring Controller로 구성되어 있습니다.
-
-## 프로젝트 구조
-
-### 1. `gradle/wrapper/`
-- Gradle 빌드 시스템 관련 파일이 포함된 디렉토리입니다.
-
-### 2. `src/main/java/com/web/p1/`
-- **`MyController.java`**: 기본 컨트롤러로, 여러 웹 요청을 처리하는 메서드들이 포함되어 있습니다.
-- **`P1Application.java`**: 이 프로젝트의 메인 애플리케이션 파일로, Spring Boot 애플리케이션을 실행하는 엔트리 포인트입니다.
-- **`YourController.java`**: 추가적인 웹 요청을 처리하는 컨트롤러입니다.
-
-### 3. `src/main/resources/templates/`
-이 디렉토리에는 프로젝트에서 사용된 HTML 템플릿 파일들이 포함되어 있습니다. 각 HTML 파일의 링크를 클릭하면 GitHub Pages를 통해 해당 페이지를 확인할 수 있습니다.
-
-- [bread.html](https://username.github.io/repository-name/src/main/resources/templates/bread.html): `Bread` 페이지 템플릿.
-- [breadAnswer.html](https://username.github.io/repository-name/src/main/resources/templates/breadAnswer.html): `BreadAnswer` 페이지 템플릿.
-- [coffee.html](https://username.github.io/repository-name/src/main/resources/templates/coffee.html): `Coffee` 페이지 템플릿.
-- [ex01.html](https://username.github.io/repository-name/src/main/resources/templates/ex01.html): 첫 번째 예제 페이지 템플릿.
-- [ex01Answer.html](https://username.github.io/repository-name/src/main/resources/templates/ex01Answer.html): 첫 번째 예제의 답안 페이지 템플릿.
-- [ex02.html](https://username.github.io/repository-name/src/main/resources/templates/ex02.html): 두 번째 예제 페이지 템플릿.
-- [ex02Answer.html](https://username.github.io/repository-name/src/main/resources/templates/ex02Answer.html): 두 번째 예제의 답안 페이지 템플릿.
-- [ex03.html](https://username.github.io/repository-name/src/main/resources/templates/ex03.html): 세 번째 예제 페이지 템플릿.
-- [ex03Answer.html](https://username.github.io/repository-name/src/main/resources/templates/ex03Answer.html): 세 번째 예제의 답안 페이지 템플릿.
-- [ex04.html](https://username.github.io/repository-name/src/main/resources/templates/ex04.html): 네 번째 예제 페이지 템플릿.
-- [ex05.html](https://username.github.io/repository-name/src/main/resources/templates/ex05.html): 다섯 번째 예제 페이지 템플릿.
-- [home.html](https://username.github.io/repository-name/src/main/resources/templates/home.html): 메인 홈 페이지 템플릿.
-- [login.html](https://username.github.io/repository-name/src/main/resources/templates/login.html): 로그인 페이지 템플릿.
-- [logout.html](https://username.github.io/repository-name/src/main/resources/templates/logout.html): 로그아웃 페이지 템플릿.
-- [menu.html](https://username.github.io/repository-name/src/main/resources/templates/menu.html): 메뉴 페이지 템플릿.
-- [popup.html](https://username.github.io/repository-name/src/main/resources/templates/popup.html): 팝업 페이지 템플릿.
-- [popuptest.html](https://username.github.io/repository-name/src/main/resources/templates/popuptest.html): 팝업 테스트 페이지 템플릿.
-- [q06.html](https://username.github.io/repository-name/src/main/resources/templates/q06.html): 6번 문제 페이지 템플릿.
-- [q06a.html](https://username.github.io/repository-name/src/main/resources/templates/q06a.html): 6번 문제(a)의 페이지 템플릿.
-- [q06aa.html](https://username.github.io/repository-name/src/main/resources/templates/q06aa.html): 6번 문제(aa)의 페이지 템플릿.
-- [q06b.html](https://username
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=database&logoColor=white">
+</div>
