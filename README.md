@@ -4,13 +4,13 @@
 
 ## 📋 목차
 
-1. [HTML 기초](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%20HTML%20%EA%B8%B0%EC%B4%88)
-2. [Spring Boot 개발 환경 세팅](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2.%20Spring%20Boot%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%B8%ED%8C%85)
-3. [Spring Boot 기초](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3.%20Spring%20Boot%20%EA%B8%B0%EC%B4%88)
-4. [쿠키와 세션](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/4.%20%EC%BF%A0%ED%82%A4%EC%99%80%20%EC%84%B8%EC%85%98)
-5. [데이터베이스](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
-6. [HTML 기초2](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6.%20HTML%20%EA%B8%B0%EC%B4%882)
-7. [웹 시스템 제작](https://github.com/umyunsang/Web_Programming/tree/main/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7.%20%EC%9B%B9%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%9C%EC%9E%91)
+1. [HTML 기초](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1.%20HTML%20%EA%B8%B0%EC%B4%88)
+2. [Spring Boot 개발 환경 세팅](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2.%20Spring%20Boot%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD%20%EC%84%B8%ED%8C%85)
+3. [Spring Boot 기초](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/3.%20Spring%20Boot%20%EA%B8%B0%EC%B4%88)
+4. [쿠키와 세션](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/4.%20%EC%BF%A0%ED%82%A4%EC%99%80%20%EC%84%B8%EC%85%98)
+5. [데이터베이스](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4)
+6. [HTML 기초2](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/6.%20HTML%20%EA%B8%B0%EC%B4%882)
+7. [웹 시스템 제작](https://github.com/umyunsang/Obsidian/tree/main/Obsidian/ComputerScience/%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/7.%20%EC%9B%B9%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%A0%9C%EC%9E%91)
 
 ---
 
@@ -37,6 +37,7 @@ Spring Boot를 사용하여 간단한 웹 애플리케이션을 만드는 방법
 ## 📑 HTML 기초2
 
 HTML 기초에 이어 좀 더 심화된 HTML 태그와 속성들에 대해 배웠습니다. 폼, 테이블, 멀티미디어 요소 등을 다룹니다.
+
 
 ---
 
