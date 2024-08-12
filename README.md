@@ -38,7 +38,7 @@ Spring Boot를 사용하여 간단한 웹 애플리케이션을 만드는 방법
 
 HTML 기초에 이어 좀 더 심화된 HTML 태그와 속성들에 대해 배웠습니다. 폼, 테이블, 멀티미디어 요소 등을 다룹니다.
 
-
+[test](https://github.com/umyunsang/Web_Programming/blob/main/p5/src/main/resources/templates/diary.html)
 ---
 
 이 리포지토리는 웹 프로그래밍 수업 내용을 복습하고 정리하는 데에 도움을 주기 위해 만들어졌습니다. 각 주제에 대한 자세한 내용은 해당 폴더의 문서를 참고해 주세요.
