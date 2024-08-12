@@ -1,4 +1,4 @@
-아래는 요청하신 내용을 기존 README 파일에 추가한 예시입니다. 이 파일을 GitHub 리포지토리의 `README.md` 파일로 사용하면 됩니다.
+아래는 GitHub Pages를 이용해 링크를 생성할 수 있도록 수정한 README 파일입니다. 각 HTML 파일을 GitHub Pages에서 직접 열 수 있게 했습니다. 이 코드를 `README.md` 파일로 저장해 사용하세요.
 
 ---
 
@@ -63,43 +63,26 @@ HTML 기초에 이어 좀 더 심화된 HTML 태그와 속성들에 대해 배�
 - **`YourController.java`**: 추가적인 웹 요청을 처리하는 컨트롤러입니다.
 
 ### 3. `src/main/resources/templates/`
-이 디렉토리에는 프로젝트에서 사용된 HTML 템플릿 파일들이 포함되어 있습니다. 각 HTML 파일의 링크를 클릭하면 파일 내용을 확인할 수 있습니다.
+이 디렉토리에는 프로젝트에서 사용된 HTML 템플릿 파일들이 포함되어 있습니다. 각 HTML 파일의 링크를 클릭하면 GitHub Pages를 통해 해당 페이지를 확인할 수 있습니다.
 
-- [bread.html](./src/main/resources/templates/bread.html): `Bread` 페이지 템플릿.
-- [breadAnswer.html](./src/main/resources/templates/breadAnswer.html): `BreadAnswer` 페이지 템플릿.
-- [coffee.html](./src/main/resources/templates/coffee.html): `Coffee` 페이지 템플릿.
-- [ex01.html](./src/main/resources/templates/ex01.html): 첫 번째 예제 페이지 템플릿.
-- [ex01Answer.html](./src/main/resources/templates/ex01Answer.html): 첫 번째 예제의 답안 페이지 템플릿.
-- [ex02.html](./src/main/resources/templates/ex02.html): 두 번째 예제 페이지 템플릿.
-- [ex02Answer.html](./src/main/resources/templates/ex02Answer.html): 두 번째 예제의 답안 페이지 템플릿.
-- [ex03.html](./src/main/resources/templates/ex03.html): 세 번째 예제 페이지 템플릿.
-- [ex03Answer.html](./src/main/resources/templates/ex03Answer.html): 세 번째 예제의 답안 페이지 템플릿.
-- [ex04.html](./src/main/resources/templates/ex04.html): 네 번째 예제 페이지 템플릿.
-- [ex05.html](./src/main/resources/templates/ex05.html): 다섯 번째 예제 페이지 템플릿.
-- [home.html](./src/main/resources/templates/home.html): 메인 홈 페이지 템플릿.
-- [login.html](./src/main/resources/templates/login.html): 로그인 페이지 템플릿.
-- [logout.html](./src/main/resources/templates/logout.html): 로그아웃 페이지 템플릿.
-- [menu.html](./src/main/resources/templates/menu.html): 메뉴 페이지 템플릿.
-- [popup.html](./src/main/resources/templates/popup.html): 팝업 페이지 템플릿.
-- [popuptest.html](./src/main/resources/templates/popuptest.html): 팝업 테스트 페이지 템플릿.
-- [q06.html](./src/main/resources/templates/q06.html): 6번 문제 페이지 템플릿.
-- [q06a.html](./src/main/resources/templates/q06a.html): 6번 문제(a)의 페이지 템플릿.
-- [q06aa.html](./src/main/resources/templates/q06aa.html): 6번 문제(aa)의 페이지 템플릿.
-- [q06b.html](./src/main/resources/templates/q06b.html): 6번 문제(b)의 페이지 템플릿.
-- [q06bb.html](./src/main/resources/templates/q06bb.html): 6번 문제(bb)의 페이지 템플릿.
-- [wise.html](./src/main/resources/templates/wise.html): `Wise` 페이지 템플릿.
-- [wiseAnswer.html](./src/main/resources/templates/wiseAnswer.html): `WiseAnswer` 페이지 템플릿.
-
----
-
-각 HTML 파일은 `/src/main/resources/templates/` 디렉토리에 위치하며, Spring Boot 애플리케이션에서 동적으로 렌더링됩니다. GitHub에서 이 README 파일을 통해 각 HTML 파일을 쉽게 확인할 수 있습니다.
-
----
-
-<div align="center">
-    <
-
-img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Database-003B57?style=for-the-badge&logo=database&logoColor=white">
-</div>
+- [bread.html](https://username.github.io/repository-name/src/main/resources/templates/bread.html): `Bread` 페이지 템플릿.
+- [breadAnswer.html](https://username.github.io/repository-name/src/main/resources/templates/breadAnswer.html): `BreadAnswer` 페이지 템플릿.
+- [coffee.html](https://username.github.io/repository-name/src/main/resources/templates/coffee.html): `Coffee` 페이지 템플릿.
+- [ex01.html](https://username.github.io/repository-name/src/main/resources/templates/ex01.html): 첫 번째 예제 페이지 템플릿.
+- [ex01Answer.html](https://username.github.io/repository-name/src/main/resources/templates/ex01Answer.html): 첫 번째 예제의 답안 페이지 템플릿.
+- [ex02.html](https://username.github.io/repository-name/src/main/resources/templates/ex02.html): 두 번째 예제 페이지 템플릿.
+- [ex02Answer.html](https://username.github.io/repository-name/src/main/resources/templates/ex02Answer.html): 두 번째 예제의 답안 페이지 템플릿.
+- [ex03.html](https://username.github.io/repository-name/src/main/resources/templates/ex03.html): 세 번째 예제 페이지 템플릿.
+- [ex03Answer.html](https://username.github.io/repository-name/src/main/resources/templates/ex03Answer.html): 세 번째 예제의 답안 페이지 템플릿.
+- [ex04.html](https://username.github.io/repository-name/src/main/resources/templates/ex04.html): 네 번째 예제 페이지 템플릿.
+- [ex05.html](https://username.github.io/repository-name/src/main/resources/templates/ex05.html): 다섯 번째 예제 페이지 템플릿.
+- [home.html](https://username.github.io/repository-name/src/main/resources/templates/home.html): 메인 홈 페이지 템플릿.
+- [login.html](https://username.github.io/repository-name/src/main/resources/templates/login.html): 로그인 페이지 템플릿.
+- [logout.html](https://username.github.io/repository-name/src/main/resources/templates/logout.html): 로그아웃 페이지 템플릿.
+- [menu.html](https://username.github.io/repository-name/src/main/resources/templates/menu.html): 메뉴 페이지 템플릿.
+- [popup.html](https://username.github.io/repository-name/src/main/resources/templates/popup.html): 팝업 페이지 템플릿.
+- [popuptest.html](https://username.github.io/repository-name/src/main/resources/templates/popuptest.html): 팝업 테스트 페이지 템플릿.
+- [q06.html](https://username.github.io/repository-name/src/main/resources/templates/q06.html): 6번 문제 페이지 템플릿.
+- [q06a.html](https://username.github.io/repository-name/src/main/resources/templates/q06a.html): 6번 문제(a)의 페이지 템플릿.
+- [q06aa.html](https://username.github.io/repository-name/src/main/resources/templates/q06aa.html): 6번 문제(aa)의 페이지 템플릿.
+- [q06b.html](https://username
